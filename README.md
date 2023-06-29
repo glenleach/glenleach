@@ -32,7 +32,7 @@ Coming soon!
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-Coming Soon!
+Coming soon!
 
 ---
 
