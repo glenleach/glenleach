@@ -8,9 +8,7 @@
 ---
 ## About
 
-Experienced IT Support engineer with 20 years of industry experience, seeking a new career by starting with an entry-level/junior or internship role in the Cloud/DevOps field. While my background primarily lies in IT support, I have been proactively learning about DevOps practices and tools to broaden my skill set. With my current skill set and a strong track record of resolving technical issues and delivering exceptional customer service, I am excited to apply my expertise in a Cloud/DevOps role.
-
-Skills: Cloud platforms(AWS, Azure, GCP), Infrastructure-as-Code (Terraform), Configuration Management (Ansible),Containerization management-Kubernetes/docker, Jenkins/Github Actions, Scripting (Python/Bash), Linux System Administration and prometheus.
+Experienced IT Support engineer with 20 years of industry experience, looking to transition into the Cloud/DevOps field through an entry-level/junior or internship position. While primarily focused on IT support, I have actively pursued knowledge of DevOps practices and tools to expand my skill set. With a proven history of resolving technical issues and providing outstanding customer service, I am eager to apply my expertise to a Cloud/DevOps role.
 
 ---
 
