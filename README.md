@@ -1,5 +1,5 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Hi there I am [Glen Leach](https://www.glenleach.net)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-[Glen Leach](https://www.glenleach.net)
+[Glen Leach](https://www.glenleach.net)<br/>
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
   
 Experienced IT Support engineer with 20 years of industry experience, seeking a new career by starting with an entry-level/junior or internship role in the Cloud/DevOps field. While my background primarily lies in IT support, I have been proactively learning about DevOps practices and tools to broaden my skill set. With my current skill set and a strong track record of resolving technical issues and delivering exceptional customer service, I am excited to apply my expertise in a Cloud/DevOps role.
