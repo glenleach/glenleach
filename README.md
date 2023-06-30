@@ -36,14 +36,23 @@ Coming soon!
 
 ### My Github Stats 📊
 
+<!-- Statistics -->
+<!-- Begin Stats Cards -->
+<!-- Resources:  -->
+<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
+<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
+<!-- Change the value after ?username= to your GitHub username. -->
+<div class="stats" align="center">
 
-[![](https://raw.githubusercontent.com/glenleach/glenleach/master/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/glenleach/glenleach/master/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/glenleach/github-profile-summary-cards) [![](https://raw.githubusercontent.com/glenleach/glenleach/master/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/glenleach/glenleach/master/profile-summary-card-output/dark/3-stats.svg)](https://github.com/glenleach/github-profile-summary-cards) [![](https://raw.githubusercontent.com/glenleach/glenleach/master/profile-summary-card-output/dark/4-productive-time.svg)](https://github.com/glenleach/github-profile-summary-cards)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=glenleach&theme=ads-juicy-fresh)](https://git.io/streak-stats)
-<!--
+![Glen Leach GitHub Stats](https://github-readme-stats.vercel.app/api?username=glenleach&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
--->
+![GitHub Streak](https://streak-stats.demolab.com?user=glenleach&count_private=true&theme=algolia&border_radius=20)
+
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glenleach&show_icons=true&theme=algolia&border_radius=20) -->
+    
+<!-- compact programming languages layout -->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glenleach&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+</div>
 
 ---
 
