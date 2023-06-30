@@ -8,7 +8,7 @@
 ---
 ## About
 
-Experienced IT Support engineer with 20 years of industry experience, looking to transition into the Cloud/DevOps field through an entry-level/junior or internship position. While primarily focused on IT support, I have actively pursued knowledge of DevOps practices and tools to expand my skill set. With a proven history of resolving technical issues and providing outstanding customer service, I am eager to apply my expertise to a Cloud/DevOps role.
+Experienced IT Support engineer with 20 years of industry experience, seeking to transition into the Cloud/DevOps field through an entry-level/junior or internship position. While primarily focused on IT support, I have actively pursued knowledge of DevOps practices and tools to expand my skill set. With a proven history of resolving technical issues and providing outstanding customer service, I am eager to apply my expertise to a Cloud/DevOps role.
 
 ---
 
