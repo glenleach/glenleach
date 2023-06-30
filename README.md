@@ -1,17 +1,18 @@
 ### 👨🏻‍💻 Hi there I am [Glen Leach](https://www.glenleach.net)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <br/>
 
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glen-leach-72492a32/)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/glen.leach)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.glenleach.net)
+
 ---
+## About
 
 Experienced IT Support engineer with 20 years of industry experience, seeking a new career by starting with an entry-level/junior or internship role in the Cloud/DevOps field. While my background primarily lies in IT support, I have been proactively learning about DevOps practices and tools to broaden my skill set. With my current skill set and a strong track record of resolving technical issues and delivering exceptional customer service, I am excited to apply my expertise in a Cloud/DevOps role.
 
 Skills: Cloud platforms(AWS, Azure, GCP), Infrastructure-as-Code (Terraform), Configuration Management (Ansible),Containerization management-Kubernetes/docker, Jenkins/Github Actions, Scripting (Python/Bash), Linux System Administration and prometheus.
 
 ---
-
 
 ### Languages and tools ⚙️
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -21,57 +22,22 @@ Skills: Cloud platforms(AWS, Azure, GCP), Infrastructure-as-Code (Terraform), Co
 
 ---
 
-### 📺 Latest YouTube Videos
+## 📊 GitHub Stats:
 
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-Coming soon!
+![](https://github-readme-stats.vercel.app/api?username=glenleach&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=glenleach&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=glenleach&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=glenleach&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-Coming soon!
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=glenleach&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=glenleach&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### My Github Stats 📊
-
-<!-- Statistics -->
-<!-- Begin Stats Cards -->
-<!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username. -->
-<div class="stats" align="center">
-
-![Glen Leach GitHub Stats](https://github-readme-stats.vercel.app/api?username=glenleach&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=glenleach&count_private=true&theme=algolia&border_radius=20)
-
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glenleach&show_icons=true&theme=algolia&border_radius=20) -->
-    
-<!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glenleach&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-</div>
-
----
-
-### ✨ My Recent Activity
-<!--START_SECTION:activity-->
-Coming soon!
-<br/>
-
-<!--
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
