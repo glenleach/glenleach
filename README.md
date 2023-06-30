@@ -12,9 +12,6 @@ Skills: Cloud platforms(AWS, Azure, GCP), Infrastructure-as-Code (Terraform), Co
 
 ---
 
-I am a Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of Random Cloud Chats podcast, AWS Community Builder, and YouTuber. Passionate about helping people get into cloud and sharing my learnings in cloud, DevOps and now DevRel. 
-
----
 
 ### Languages and tools ⚙️
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
