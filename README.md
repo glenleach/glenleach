@@ -9,9 +9,7 @@
 ## About
 
 Professional Summary
-Experienced IT support professional with over 20 years of success in desktop support, system administration, and infrastructure troubleshooting. After a long and rewarding career in technical support, I’m now seeking a new challenge and actively transitioning into a Cloud Support or DevOps Engineer role.
-Driven by a passion for automation, cloud technologies, and continuous improvement, I have completed a DevOps bootcamp and built several hands-on personal projects that showcase my understanding of key DevOps tools and cloud practices. I regularly document my learning journey and technical insights on Medium, where I share project breakdowns and tutorials aimed at helping others enter the DevOps space.
-I'm eager to bring my deep technical background, strong problem-solving skills, and recent DevOps training into a collaborative team where I can contribute to building reliable, scalable cloud environments
+DevOps Practitioner with hands-on experience in cloud automation, CI/CD, and infrastructure as code through the TechWorld with Nana DevOps Bootcamp (October 2022 – July 2025) and personal projects. Strong foundation in enterprise IT operations, now focused on delivering value as a DevOps Engineer. Skilled in Terraform, Jenkins, Git, AWS, Ansible, Prometheus, Node.js, Maven, and Gradle.
 
 
 ---
