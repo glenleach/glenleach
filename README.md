@@ -8,7 +8,7 @@
 ---
 ## About
 
-DevOps Practitioner with hands-on experience in cloud automation, CI/CD, and infrastructure as code through the TechWorld with Nana DevOps Bootcamp (October 2022 – July 2025) and personal projects. Strong foundation in enterprise IT operations, now focused on delivering value as a DevOps Engineer. Skilled in Terraform, Jenkins, Git, AWS, Ansible, Prometheus, Python, Yaml, bash,  EKS, Kubernettes, Node.js, Maven, and Gradle.
+DevOps Practitioner with hands-on experience in automation using Python and shell scripting, cloud automation, CI/CD with Jenkins, and infrastructure as code. Experienced in container orchestration with Kubernetes, configuration management with Ansible, and building infrastructure with Terraform. Strong foundation in enterprise IT operations, now focused on delivering value as a DevOps Engineer.
 
 
 ---
